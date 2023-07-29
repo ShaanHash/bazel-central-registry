@@ -1,0 +1,19 @@
+{
+    "build_file": null,
+    "build_targets": [
+        "@copybaracopybara"
+    ],
+    "compatibility_level": "1",
+    "deps": [],
+    "module_dot_bazel": null,
+    "name": "copybara",
+    "patch_strip": 0,
+    "patches": [],
+    "presubmit_yml": null,
+    "strip_prefix": "copybara-6cd6432036fd47ba13737aa2ab3703ebf7a8a8cb",
+    "test_module_build_targets": [],
+    "test_module_path": null,
+    "test_module_test_targets": [],
+    "url": "https://github.com/google/copybara/archive/6cd6432036fd47ba13737aa2ab3703ebf7a8a8cb.zip",
+    "version": "1.0.0"
+}

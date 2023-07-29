@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/google/copybara/archive/6cd6432036fd47ba13737aa2ab3703ebf7a8a8cb.zip",
+    "integrity": "sha256-ZgGyh8OaCOtcbl7RXJIO0r/rkUAiAZDvKcEX8qvltV0=",
+    "strip_prefix": "copybara-6cd6432036fd47ba13737aa2ab3703ebf7a8a8cb",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-U8WXhxbrTNpLR0EHSXwaJWfVCsECfM479jU9O9A1bo4="
+    }
+}

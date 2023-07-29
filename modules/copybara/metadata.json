@@ -1,0 +1,11 @@
+{
+    "homepage": "https://www.google.com/",
+    "maintainers": [],
+    "repository": [
+        "github:google/copybara"
+    ],
+    "versions": [
+        "1.0.0"
+    ],
+    "yanked_versions": {}
+}
